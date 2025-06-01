@@ -1,16 +1,23 @@
 ## Hi there 👋
+🔍 Manual QC | 🧩 Project Management and Orchestration
 
-<!--
-**thaonguyennv/thaonguyennv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 💼 Currently working at **Vietlink Solutions**, partnering with Mediba & KDDI Japan.
+- 🧪 5+ years of experience in **quality control**, **client communication**, and **project delivery**.
+- 🤝 Passionate about **building bridges** between business needs and technical teams.
 
-Here are some ideas to get you started:
+### 📈 Skills
+- Manual Testing, Test Case Design, Defect Tracking, Scrum Master
+- Project Coordination, Timeline Management
+- Learning: ISTQB | Business Development | English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Let's Connect
+- 📧 Email: [thaonguyen.nguyenviet@gmail.com]
+- 💼 [LinkedIn](https://www.linkedin.com/in/nvtnguyen/)
+
+---
+
+### ⚡ Fun Fact
+I hunt bugs by day, chase a running toddler by evening, and sleep by nigh 😄 
+
+🚀Here's my Resume: [Resume](BD-NguyenVietThaoNguyen.pdf)
